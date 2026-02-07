@@ -46,3 +46,11 @@ App iOS (SwiftUI, iOS 17+) para estudiar bancos de preguntas tipo examen desde P
 ## Recursos de ejemplo
 
 - `PCAStudy/Resources/SampleQuestions.json` incluye un ejemplo de banco JSON.
+
+## Cómo ejecutar la aplicación localmente
+
+1. Abre el proyecto en Xcode 15+.
+2. Configura el destino de ejecución (simulador o dispositivo iOS 17+).
+3. Ejecuta con **Run** (⌘R).
+
+> Nota: el proyecto no usa dependencias externas ni requiere conexión a red.
