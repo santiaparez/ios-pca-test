@@ -1,0 +1,41 @@
+{
+  "title": "Banco PCA",
+  "questions": [
+    {
+      "id": "1",
+      "category": "Aerodinámica básica",
+      "prompt": "¿Qué ocurre con la sustentación si aumenta el ángulo de ataque dentro del rango lineal?",
+      "choices": [
+        {"key": "A", "text": "Disminuye de forma constante"},
+        {"key": "B", "text": "Aumenta de forma aproximada y lineal"},
+        {"key": "C", "text": "Se mantiene constante"}
+      ],
+      "answerKey": "B",
+      "explanation": "En el rango lineal, la sustentación es proporcional al ángulo de ataque."
+    },
+    {
+      "id": "2",
+      "category": "Motores",
+      "prompt": "El EGT es un indicador de:",
+      "choices": [
+        {"key": "A", "text": "Temperatura de gases de escape"},
+        {"key": "B", "text": "Presión de admisión"},
+        {"key": "C", "text": "Consumo instantáneo"}
+      ],
+      "answerKey": "A",
+      "explanation": "EGT mide la temperatura de los gases de escape."
+    },
+    {
+      "id": "3",
+      "category": "Navegación",
+      "prompt": "¿Qué significa una desviación TO/FROM en un VOR?",
+      "choices": [
+        {"key": "A", "text": "Indica si la estación está delante o detrás"},
+        {"key": "B", "text": "Indica si el CDI está centrado"},
+        {"key": "C", "text": "Indica la frecuencia correcta"}
+      ],
+      "answerKey": null,
+      "explanation": "Requiere revisar la respuesta correcta si no se detecta en OCR."
+    }
+  ]
+}
